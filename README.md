@@ -2,6 +2,8 @@
 
 ![out](https://user-images.githubusercontent.com/343936/226172223-acfba006-8621-425f-a697-be745a94503f.gif)
 
+撒
+
 This is a proof-of-concept integration of ChatGPT into Unity Editor. You can
 control the Editor using natural language prompts.
 
